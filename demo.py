@@ -4,5 +4,6 @@ wu liang learn the git
 -fix-B
 feature-C
 DDDD
+EEEE
 #wuliang!
 
